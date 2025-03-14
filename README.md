@@ -36,6 +36,9 @@
   <a href="https://x.com/AnkitTalukder" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
   </a>
+  <a href="https://www.instagram.com/sadubaba_2061/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
