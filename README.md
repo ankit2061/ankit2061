@@ -30,8 +30,8 @@
 
 ## **📫 Let's Connect!**
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ankit-talukder-631a62220/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="[https://twitter.com/YOUR-TWITTER](https://x.com/AnkitTalukder)"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ankit-talukder-631a62220/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/YOUR-TWITTER](https://x.com/AnkitTalukder"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
   <a href="mailto:codingjourney18@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
@@ -45,12 +45,3 @@
 ### 🎯 _"The best way to predict the future is to create it."_ – Abraham Lincoln
 
 ---
-
-### **🔗 Add Your Own Custom Elements**
-- **Profile Views Badge:** `https://komarev.com/ghpvc/?username=Sadubaba`
-- **GitHub Stats:** `https://github-readme-stats.vercel.app/api?username=Sadubaba&show_icons=true&theme=dark`
-- **Streak Stats:** `https://github-readme-streak-stats.herokuapp.com/?user=Sadubaba&theme=dark`
-
----
-
-**🚀 Now, push this to your GitHub repository, and your profile will look amazing!** 🎉 Let me know if you want modifications! 🔥  
