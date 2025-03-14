@@ -30,9 +30,15 @@
 
 ## **📫 Let's Connect!**
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ankit-talukder-631a62220/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER](https://x.com/AnkitTalukder"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
-  <a href="mailto:codingjourney18@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ankit-talukder-631a62220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/AnkitTalukder" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
 ---
