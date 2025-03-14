@@ -26,24 +26,13 @@
 
 ---
 
-## **📊 GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadubaba&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadubaba&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadubaba&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ## **📫 Let's Connect!**
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ankit-talukder-631a62220/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="[https://twitter.com/YOUR-TWITTER](https://x.com/AnkitTalukder)"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
+  <a href="mailto:codingjourney18@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 ---
