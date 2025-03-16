@@ -4,13 +4,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sadubaba&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  
-  <img src="https://komarev.com/ghpvc/?username=Sadubaba&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   <a href="https://github.com/Sadubaba?tab=followers">
     <img src="https://img.shields.io/github/followers/Sadubaba?label=Followers&style=flat-square" alt="GitHub Followers" />
   </a>
-
 </p>
+
 
 ---
 
