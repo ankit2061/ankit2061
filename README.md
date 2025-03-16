@@ -13,7 +13,7 @@
 ---
 
 ## **💡 About Me**
-- 🎓 **B.Tech in Information Technology** | Passionate about Open Source
+- 🎓 **B.Tech in Information Technology** (First Year) | Passionate about Open Source
 - 🖥️ **Linux Enthusiast** | Love tinkering with **Ubuntu, Arch, and Debian**
 - 🔥 Intermediate in **C, C++, Java** | Exploring **Kotlin for Android Dev**
 - 💡 Currently learning **AI & NLP** | Working on an **NLP-based customer service chatbot**
