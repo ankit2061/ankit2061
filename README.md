@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Tech Enthusiast | 💻 Linux Nerd | 🎓 B.Tech IT Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sadubaba&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ankit2061&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   <a href="https://github.com/ankit2061?tab=followers">
     <img src="https://img.shields.io/github/followers/ankit2061?label=Followers&style=flat-square" alt="GitHub Followers" />
   </a>
@@ -28,6 +28,17 @@
 </p>
 
 ---
+
+## **📊 GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit2061&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit2061&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit2061&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
