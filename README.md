@@ -45,18 +45,19 @@
 ## **📫 Let's Connect!**
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-talukder-631a62220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/AnkitTalukder" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)" />
   </a>
   <a href="https://www.instagram.com/sadubaba_2061/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
   </a>
 </p>
+
 
 
 ---
