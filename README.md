@@ -9,15 +9,14 @@
   </a>
 </p>
 
-
 ---
 
 ## **💡 About Me**
-- 🎓 **B.Tech in Information Technology** (First Year) | Passionate about Open Source
-- 🖥️ **Linux Enthusiast** | Love tinkering with **Ubuntu, Arch, and Debian**
-- 🔥 Intermediate in **C, C++, Java** | Exploring **Kotlin for Android Dev**
-- 💡 Currently learning **AI & NLP** | Working on an **NLP-based customer service chatbot**
-- 🚀 **Hackathon Enthusiast** | Building a web-based medical insurance solution
+- 🎓 **B.Tech in Information Technology** (First Year) | Passionate about Open Source  
+- 🖥️ **Linux Enthusiast** | Love tinkering with **Ubuntu, Arch, and Debian**  
+- 🔥 Intermediate in **C, C++, Java** | Exploring **Kotlin for Android Dev**  
+- 💡 Currently learning **AI & NLP** | Working on an **NLP-based customer service chatbot**  
+- 🚀 **Hackathon Enthusiast** | Building a web-based medical insurance solution  
 - 🌱 Always learning and open to **collaborations & open-source contributions**
 
 ---
@@ -25,6 +24,38 @@
 ## **🔧 Technologies & Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,java,kotlin,sqlite,mysql,git,github,vscode,html,css,javascript" />
+</p>
+
+---
+
+## 🎃 **Hacktoberfest 2025**
+<p align="center">
+  <a href="https://hacktoberfest.com/">
+    <img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hacktoberfest 2025 Badge" />
+  </a>
+</p>
+
+<p align="center">
+  🌱 Proud contributor to <b>Hacktoberfest 2025</b> — celebrating open source, collaboration, and community!
+</p>
+
+<p align="center">
+  <b>My Contributions</b> ✨  
+</p>
+
+<p align="center">
+  🧩 <a href="https://github.com/user/project-name-1/pull/xx">Added translation support in Project X</a> <br>
+  🐛 <a href="https://github.com/user/project-name-2/pull/yy">Fixed data extraction issue in HealthBot</a> <br>
+  📘 <a href="https://github.com/user/project-name-3/pull/zz">Improved documentation for AI module</a>
+</p>
+
+---
+
+## 🏅 **Holopin Badges**
+<p align="center">
+  <a href="https://holopin.io/@ankit2061">
+    <img src="https://holopin.me/ankit2061" alt="@ankit2061's Holopin board" />
+  </a>
 </p>
 
 ---
@@ -53,12 +84,10 @@
   <a href="https://www.instagram.com/sadubaba_2061/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:codingjourney18@gmail.com">
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
   </a>
 </p>
-
-
 
 ---
 
