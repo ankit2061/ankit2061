@@ -39,15 +39,6 @@
   🌱 Proud contributor to <b>Hacktoberfest 2025</b> — celebrating open source, collaboration, and community!
 </p>
 
-<p align="center">
-  <b>My Contributions</b> ✨  
-</p>
-
-<p align="center">
-  🧩 <a href="https://github.com/user/project-name-1/pull/xx">Added translation support in Project X</a> <br>
-  🐛 <a href="https://github.com/user/project-name-2/pull/yy">Fixed data extraction issue in HealthBot</a> <br>
-  📘 <a href="https://github.com/user/project-name-3/pull/zz">Improved documentation for AI module</a>
-</p>
 
 ---
 
