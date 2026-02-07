@@ -1,92 +1,74 @@
-<!-- Header Section -->
-<h1 align="center">👋 Hello, I'm Ankit (aka Sadubaba)!</h1>
-<h3 align="center">🚀 Tech Enthusiast | 💻 Linux Nerd | 🎓 B.Tech IT Student</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Ankit;Backend+Developer;Linux+Enthusiast;Blockchain+Explorer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankit2061&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ankit2061&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/ankit2061?tab=followers">
-    <img src="https://img.shields.io/github/followers/ankit2061?label=Followers&style=flat-square" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/ankit2061?label=Followers&style=flat-square&color=36BCF7" alt="GitHub Followers" />
   </a>
 </p>
 
 ---
 
-## **💡 About Me**
-- 🎓 **B.Tech in Information Technology** (Second Year) | Passionate about Open Source  
-- 🖥️ **Linux Enthusiast** | Love tinkering with **Ubuntu, Arch, and Debian**  
-- 🔥 Intermediate in **C, C++, Java** | Exploring **Kotlin for Android Dev**  
-- 💡 Currently learning **AI & NLP** | Working on an **NLP-based customer service chatbot**  
-- 🚀 **Hackathon Enthusiast** | Building a web-based medical insurance solution  
-- 🌱 Always learning and open to **collaborations & open-source contributions**
+### ⚡ About Me
+
+- 🎓 **Student** | 2nd Year B.Tech IT based in Kolkata.
+- 🛠️ **Backend** | Deep diving into **Java (Spring Boot)**, **Python (FastAPI)**, and **Go**.
+- ⛓️ **Web3** | Currently exploring **Solidity** and Smart Contract development.
+- 🐧 **Linux** | Arch/Debian tinkerer; comfortable in the terminal.
+- 🧠 **AI/NLP** | Building NLP-based agents and integrating Gemini API.
+- 🏗️ **Community** | Founder of **Byte Brigade**.
 
 ---
 
-## **🔧 Technologies & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,java,kotlin,sqlite,mysql,git,github,vscode,html,css,javascript" />
+### 🚀 Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `Python`, `Java`, `C++`, `Go`, `Solidity`, `JavaScript` |
+| **Frameworks** | `Spring Boot`, `FastAPI`, `Next.js`, `Node.js`, `Express` |
+| **Databases** | `PostgreSQL`, `MongoDB`, `MySQL`, `Redis` |
+| **DevOps/Tools** | `Docker`, `Git`, `Linux (Ubuntu/Arch)`, `Vite`, `Postman` |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,go,solidity,nextjs,nodejs,mongodb,postgres,docker,linux,git" />
 </p>
 
 ---
 
-## 🎃 **Hacktoberfest 2025**
+### 📊 My GitHub Journey
+
 <p align="center">
-  <a href="https://hacktoberfest.com/">
-    <img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hacktoberfest 2025 Badge" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit2061&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit2061&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  🌱 Proud contributor to <b>Hacktoberfest 2025</b> — celebrating open source, collaboration, and community!
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit2061&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-
 
 ---
 
-## 🏅 **Holopin Badges**
-<p align="center">
+### 🏅 Recognition & Events
+<div align="center">
   <a href="https://holopin.io/@ankit2061">
-    <img src="https://holopin.me/ankit2061" alt="@ankit2061's Holopin board" />
+    <img src="https://holopin.me/ankit2061" width="300px" alt="@ankit2061's Holopin board" />
   </a>
-</p>
+  <br>
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hacktoberfest 2025" />
+</div>
 
 ---
 
-## **📊 GitHub Stats**
+### 📫 Connect With Me
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit2061&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://www.linkedin.com/in/ankit-talukder-631a62220/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/AnkitTalukder"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:codingjourney18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit2061&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <b>"The best way to predict the future is to create it."</b>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit2061&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## **📫 Let's Connect!**
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankit-talukder-631a62220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/AnkitTalukder" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)" />
-  </a>
-  <a href="https://www.instagram.com/sadubaba_2061/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:codingjourney18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
-  </a>
-</p>
-
----
-
-## **🔥 Fun Fact**
-🚀 "I love coding at night with a cup of coffee ☕ and some lo-fi beats! 🎧"
-
----
-
-### 🎯 _"The best way to predict the future is to create it."_ – Abraham Lincoln
-
----
